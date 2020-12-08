@@ -6,9 +6,6 @@ p {
   color: #182628;
 }
 
-h1 {
-}
-
 textarea.form-control {
   font-size: xx-large;
 }
@@ -32,7 +29,7 @@ textarea.form-control {
 }
 
 .output-row {
-  background-color: rgb(224, 224, 224);
+  background-color: rgb(255, 254, 170);
   padding: 2%;
 }
 

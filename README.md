@@ -1,7 +1,3 @@
-# NeoG-markSix
-
-NeoG Camp markSix Assignment - Minion Speak
-
 # NeoG Camp - markSix
 
 [Click for markSix Repl.it](https://repl.it/@aamyear/NeoG-markSix)
