@@ -41,3 +41,8 @@ textarea.form-control {
 #minion-says {
   font-family: "Great Vibes", cursive;
 }
+
+#reset-msg {
+  padding: 5px;
+  display: none;
+}
